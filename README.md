@@ -36,7 +36,7 @@ Mi mezcal fue fundadado en Octubre del 2016, durante estos dos años de operaci�
 - El objetivo de **Mi Mezcal** es llegar a mas lugares de la república mexicana.
 - En un futuro se planea llegar al extranjero dado de que existen puntos de contacto en Canada y Alemania.
 
-##Insights de "Mi mezcal"
+## Insights de "Mi mezcal"
 
 - El fundado realiza todos los procesos, a pesar de ser el único que participa en el negocio ha tenido un posicionamiento en el mercado y ganancias que han sido reinvertidas.
 - Los canales de redes sociales están habilitados sin embargo no se actualizan constantemente debido a una falta de personal.
@@ -48,6 +48,7 @@ Mi mezcal fue fundadado en Octubre del 2016, durante estos dos años de operaci�
 - Posee una identidad y marca, esta registrado ante el IMPI.
 - Existe un buen empaquetado, etiquetado, y embalaje
 - El trato resulta ser informal al momento de realizar la transacción o entrega.
+- Aun no esta registrado en hacienda.
 
 
 ## Investigacion 
