@@ -65,7 +65,10 @@ Para poder asegurar una buena aceptacion del cliente en el ambito virtual se ha 
 ## Empathy map
 
 ![mimezcal](imagenes/empamamez.png)
+![mimezcal](imagenes/benchmark.png)
 ![mimezcal](imagenes/userpersona.png)
 ![mimezcal](imagenes/personnigro.png)
+
+
 
 ### La investigacion sigue en proceso 
