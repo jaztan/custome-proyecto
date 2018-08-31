@@ -12,12 +12,12 @@ A nivel mundial, las cifras ya reflejan el enorme potencial de hacer negocios at
 
 ## Preambulo 
 
-### Mi Mezcal 
+### Buena Suerte  
 ![mimezcal](imagenes/mimezcal.jpg)
 
 > "Mi pasión es el mezcal ¿porque no vivir de ello?"
 
-La marca **Mi Mezcal** fue fundada en  octubre del 2016 por un joven que, **crecio en una familia que ama el mezcal**,formando entonces parte de una tradicion familiar.
+La marca **Buena Suerte** fue fundada en  octubre del 2016 por un joven que, **crecio en una familia que ama el mezcal**,formando entonces parte de una tradicion familiar.
 
 Mi Mezcal fue creado por la pasion al mezcal, la devoción hacia las raíces de México y los deseos de darlo a conocer en al mundo.
 
@@ -33,12 +33,13 @@ Mi mezcal fue fundadado en Octubre del 2016, durante estos dos años de operaci�
 
 ## Objetivo de la empresa
  
-- El objetivo de **Mi Mezcal** es llegar a mas lugares de la república mexicana.
+- El objetivo de **Buena Suerte** es llegar a mas lugares de la república mexicana.
+- Incrementar sus ventas
 - En un futuro se planea llegar al extranjero dado de que existen puntos de contacto en Canada y Alemania.
 
-## Insights de "Mi mezcal"
+## Insights de "bUENA SUERTE"
 
-- El fundado realiza todos los procesos, a pesar de ser el único que participa en el negocio ha tenido un posicionamiento en el mercado y ganancias que han sido reinvertidas.
+- El fundador realiza todos los procesos, a pesar de ser el único que participa en el negocio ha tenido un posicionamiento en el mercado y ganancias que han sido reinvertidas.
 - Los canales de redes sociales están habilitados sin embargo no se actualizan constantemente debido a una falta de personal.
 - El producto ha tenido aceptación en el mercado por lo cual cuenta con clientes regulares que sostienen el negocio.
 - El principal canal de venta es vía telefónica y entregas en persona.
@@ -50,25 +51,33 @@ Mi mezcal fue fundadado en Octubre del 2016, durante estos dos años de operaci�
 - El trato resulta ser informal al momento de realizar la transacción o entrega.
 - Aun no esta registrado en hacienda.
 
+![in](imagenes/in.jpg)
+
 
 ## Investigacion 
 
-Para lograr que Mi Mezcal se habra campo entre los mejores mezcales de México,se ha hecho una investigacion tomando en cuenta a los mezcales que ya se encuentran en el mercado.
+Para lograr que Buena Suerte se habra campo entre los mejores mezcales de México,se ha hecho una investigacion tomando en cuenta a los mezcales que ya se encuentran en el mercado.
 
 Se realizo
 - Mistery shopper
 - Entrevista con el cliente
+![en1](imagenes/en1.png)
 - Entrevista con usuario
+
+![en2](imagenes/en2.png)
+
 - Entrevista con potenciales usuarios
+URL  (https://drive.google.com/drive/folders/1mey3EuRaaAs5BfovMoIBJTJaJd19fx_a)
 
 Para poder asegurar una buena aceptacion del cliente en el ambito virtual se ha desarrolado lo siguiente:
 ## Empathy map
 
 ![mimezcal](imagenes/empamamez.png)
-![mimezcal](imagenes/benchmark.png)
-![mimezcal](imagenes/userpersona.png)
+![mimezcal](imagenes/bench.png)
+
 ![mimezcal](imagenes/personnigro.png)
 
+## Card Sorting 
+![card1](imagenes/card1.jpg)
+![card2](imagenes/card2.jpg)
 
-
-### La investigacion sigue en proceso 
