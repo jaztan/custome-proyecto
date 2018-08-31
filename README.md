@@ -37,7 +37,7 @@ Mi mezcal fue fundadado en Octubre del 2016, durante estos dos años de operaci�
 - Incrementar sus ventas
 - En un futuro se planea llegar al extranjero dado de que existen puntos de contacto en Canada y Alemania.
 
-## Insights de "bUENA SUERTE"
+## Insights de "BUENA SUERTE"
 
 - El fundador realiza todos los procesos, a pesar de ser el único que participa en el negocio ha tenido un posicionamiento en el mercado y ganancias que han sido reinvertidas.
 - Los canales de redes sociales están habilitados sin embargo no se actualizan constantemente debido a una falta de personal.
