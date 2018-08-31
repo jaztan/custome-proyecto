@@ -81,3 +81,15 @@ Para poder asegurar una buena aceptacion del cliente en el ambito virtual se ha 
 ![card1](imagenes/card1.jpg)
 ![card2](imagenes/card2.jpg)
 
+## Problema  Encontrado
+El poblema que encontramos ,despues de toda la investigacion fue :
+Buena suerte tendria que aumentar sus ventas para poder invertir en un e-commerce propio en un futuro
+## Solucion Ofrecida
+La solucion que nosotros ofrecememos a "Buena Suerte" es : 
+Por este momento darse de alta  en  Mi Mezcalito es un e commerce de mezcal que ya lleva  tiempo en el mercado online,ademas de que ofrece un gran apoyo a mezcaleros mexicanos.
+url (https://www.mimezcalito.com/)
+
+![mimez](imagenes/mezcalito.png)
+
+Buena Suerte tendrá una gran oportunidad porque mi mezcalito tiene por ahora pocos proveedores de mezcal del Estado de Oaxaca.
+
